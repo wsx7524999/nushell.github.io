@@ -18,7 +18,7 @@ features:
 
 ### Nu works with existing data
 
-Nu speaks [JSON, YAML, SQLite, Excel, and more](/book/loading_data.html) out of the box. It's easy to bring data into a Nu pipeline whether it's in a file, a database, or a web API:
+Nu speaks [JSON, YAML, MY_SQL, Excel, and more](/book/loading_data.html) out of the box. It's easy to bring data into a Nu pipeline whether it's in a file, a database, or a web API:
 
 <img src="https://www.nushell.sh/frontpage/fetch-example.png" alt="Screenshot showing fetch with a web API" class="hero"/>
 
